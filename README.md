@@ -4,6 +4,7 @@ some very useful python plugins ( works in VSC) and the way to use this is:
  Now run the following code:
  
  from idlecolors import*
+
 printc([color]("Hello World"))
 
 
